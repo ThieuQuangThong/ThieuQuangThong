@@ -1,5 +1,4 @@
 ### Hi, this is Thong'Repository  👋
-![image](https://user-images.githubusercontent.com/80030744/216373982-d260c8e7-3e4c-470e-8756-231afadf6934.gif)
 
 <!--
 **ThieuQuangThong/ThieuQuangThong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
